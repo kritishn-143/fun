@@ -1,12 +1,14 @@
 const texts = [
   "Bro knows what amber heard",
+  "Bro knows who asked",
+  "Bro United the states",
   "Bro tells his watch the hour",
   "Bro tells his barber he didn't like the cut",
   "Bro knows what da dog doin",
   "Bro knows who let the dawgs out",
   "Bro knows where iPhone 9 at",
   "Bro knows the alphabet that comes before a",
-  "Bro calls 9/11 and asks their emergency",
+  "Bro calls 911 and asks their emergency",
   "Bro knows Obama's last name",
   "Bro named his Grandparents",
 ];
